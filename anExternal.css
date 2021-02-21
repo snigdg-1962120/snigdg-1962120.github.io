@@ -8,8 +8,8 @@ p {
   color: blue;
 }
 div.rounded-corners {     
-    height: 1000px;
-    width: 1000px; 
+    height: 557px;
+    width: 1080px; 
     border-radius: 10px;
     overflow: hidden;
     float:right;
