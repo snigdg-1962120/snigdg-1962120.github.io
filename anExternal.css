@@ -7,7 +7,9 @@ h1 {
 p {
   color: blue;
 }
-img  {
-  float: right;
-  border-radius: 30px;
+img{
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+  object-fit: cover;
 }
