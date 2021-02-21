@@ -7,12 +7,6 @@ h1 {
 p {
   color: blue;
 }
-img{
-  width:80px;
-  height:80px;
-  border-radius: 50%;
-  object-fit: cover;
-}
 div.rounded-corners {     
     height: 150px;
     width: 150px; 
