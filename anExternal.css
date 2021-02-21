@@ -10,7 +10,7 @@ p {
 div.rounded-corners {     
     height: 150px;
     width: 150px; 
-    border-radius: 50%;
+    border-radius: 10px;
     overflow: hidden;
     float:right;
 }
